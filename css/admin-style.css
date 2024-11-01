@@ -1,0 +1,30 @@
+.snowt_wrap h2{
+	margin-bottom: 0;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #fff;
+}
+
+.snowt_wrap table th{
+	padding: 10px 10px 10px 0;
+	vertical-align: middle;
+}
+
+.snowt_wrap table td{
+	padding: 10px;
+	vertical-align: middle;
+}
+
+.snowt_wrap select{
+	width: 162px;
+	overflow: hidden;
+	outline: none;
+}
+
+.snowt_wrap select[name="snowt_options[snowt_character]"]{
+	font-size: 20px;
+	height: 36px;
+}
+
+.snowt_wrap select.snowt_select2{
+	width: 60%;
+}
